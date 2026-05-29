@@ -1,0 +1,10 @@
+{
+  "home": "Home",
+  "settings": "Settings",
+
+  "text1": "Welcome",
+  "text2": "Flutter Localization",
+  "text3": "Riverpod Example",
+  "text4": "Dynamic Language",
+  "text5": "Company Level Project"
+}
